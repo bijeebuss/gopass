@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/justwatchcom/gopass/fsutil"
+	"github.com/bijeebuss/gopass/fsutil"
 	"github.com/urfave/cli"
 )
 

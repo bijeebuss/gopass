@@ -9,9 +9,9 @@ import (
 
 	"github.com/fatih/color"
 	"github.com/ghodss/yaml"
-	"github.com/justwatchcom/gopass/fsutil"
-	"github.com/justwatchcom/gopass/gpg"
-	"github.com/justwatchcom/gopass/password"
+	"github.com/bijeebuss/gopass/fsutil"
+	"github.com/bijeebuss/gopass/gpg"
+	"github.com/bijeebuss/gopass/password"
 )
 
 // Action knows everything to run gopass CLI actions

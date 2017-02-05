@@ -8,7 +8,7 @@ import (
 	"syscall"
 
 	"github.com/fatih/color"
-	"github.com/justwatchcom/gopass/gpg"
+	"github.com/bijeebuss/gopass/gpg"
 )
 
 // Fsck checks this stores integrity

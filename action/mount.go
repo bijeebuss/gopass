@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/fatih/color"
-	"github.com/justwatchcom/gopass/tree"
+	"github.com/bijeebuss/gopass/tree"
 	"github.com/urfave/cli"
 )
 

@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/fatih/color"
-	"github.com/justwatchcom/gopass/fsutil"
+	"github.com/bijeebuss/gopass/fsutil"
 )
 
 var (

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/justwatchcom/gopass/gpg"
+	"github.com/bijeebuss/gopass/gpg"
 	"github.com/urfave/cli"
 )
 

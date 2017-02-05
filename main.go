@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/fatih/color"
-	"github.com/justwatchcom/gopass/action"
+	"github.com/bijeebuss/gopass/action"
 	"github.com/urfave/cli"
 )
 

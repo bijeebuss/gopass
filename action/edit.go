@@ -8,8 +8,8 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/justwatchcom/gopass/fsutil"
-	"github.com/justwatchcom/gopass/password"
+	"github.com/bijeebuss/gopass/fsutil"
+	"github.com/bijeebuss/gopass/password"
 	shellquote "github.com/kballard/go-shellquote"
 	"github.com/urfave/cli"
 )

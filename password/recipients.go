@@ -11,8 +11,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/justwatchcom/gopass/fsutil"
-	"github.com/justwatchcom/gopass/gpg"
+	"github.com/bijeebuss/gopass/fsutil"
+	"github.com/bijeebuss/gopass/gpg"
 )
 
 const (

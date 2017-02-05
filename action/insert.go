@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/justwatchcom/gopass/password"
+	"github.com/bijeebuss/gopass/password"
 	"github.com/urfave/cli"
 )
 

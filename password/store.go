@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	"github.com/fatih/color"
-	"github.com/justwatchcom/gopass/fsutil"
-	"github.com/justwatchcom/gopass/gpg"
+	"github.com/bijeebuss/gopass/fsutil"
+	"github.com/bijeebuss/gopass/gpg"
 )
 
 const (

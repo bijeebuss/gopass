@@ -11,8 +11,8 @@ import (
 	"strings"
 
 	"github.com/ghodss/yaml"
-	"github.com/justwatchcom/gopass/fsutil"
-	"github.com/justwatchcom/gopass/password"
+	"github.com/bijeebuss/gopass/fsutil"
+	"github.com/bijeebuss/gopass/password"
 	"github.com/urfave/cli"
 )
 

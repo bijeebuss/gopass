@@ -4,8 +4,8 @@
 
 # gopass
 
-[![Build Status](https://travis-ci.org/justwatchcom/gopass.svg?branch=master)](https://travis-ci.org/justwatchcom/gopass)
-[![Go Report Card](https://goreportcard.com/badge/github.com/justwatchcom/gopass)](https://goreportcard.com/report/github.com/justwatchcom/gopass)
+[![Build Status](https://travis-ci.org/bijeebuss/gopass.svg?branch=master)](https://travis-ci.org/bijeebuss/gopass)
+[![Go Report Card](https://goreportcard.com/badge/github.com/bijeebuss/gopass)](https://goreportcard.com/report/github.com/bijeebuss/gopass)
 
 The slightly more awesome Standard Unix Password Manager for Teams. Written in Go.
 
@@ -287,7 +287,7 @@ a working Go development environment, we recommend building from source.
 #### macOS
 
 ```bash
-$ brew tap justwatchcom/gopass
+$ brew tap bijeebuss/gopass
 $ brew install gopass
 ```
 
@@ -306,7 +306,7 @@ Please visit https://www.justwatch.com/gopass/releases/1.0.0/ for a list of bina
 
 To get the latest version of pass, run `go get`:
 
-    go get github.com/justwatchcom/gopass
+    go get github.com/bijeebuss/gopass
 
 If `$GOPATH/bin` is in your `$PATH`, you can now run `gopass` from anywhere on your system and use this.
 

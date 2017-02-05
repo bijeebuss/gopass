@@ -12,7 +12,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/justwatchcom/gopass/gpg"
+	"github.com/bijeebuss/gopass/gpg"
 	"golang.org/x/crypto/ssh/terminal"
 )
 
